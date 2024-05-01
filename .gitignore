@@ -1,0 +1,5 @@
+Backup/.
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+Readme.md
